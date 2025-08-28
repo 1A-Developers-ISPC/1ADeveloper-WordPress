@@ -1,8 +1,7 @@
 
-<div style="text-align:center;">
-<img src="logo-1A-Dev/logo-color-1A-Dev.png" width="350px">
-</div>
-<br>
+<div align="center">
+<img src="https://github.com/1A-Developers-ISPC/1ADeveloper-WordPress/blob/feature/creacion-readme/logo-1A-Dev/logo-color-1A-Dev.png" width="400px" height="400px">
+</div> <br>
 
 # Descripción:
 

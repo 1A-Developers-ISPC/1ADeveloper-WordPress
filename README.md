@@ -1,6 +1,6 @@
 
 <div align="center">
-<img src="https://github.com/1A-Developers-ISPC/1ADeveloper-WordPress/blob/feature/creacion-readme/logo-1A-Dev/logo-color-1A-Dev.png" width="400px" height="400px">
+<img src="logo-1A-Dev/logo-color-1A-Dev.png" width="400px" height="400px">
 </div> <br>
 
 # Descripción:
@@ -19,7 +19,7 @@ Hacer una Startup que ofrece servicio de diseño web para todo tipo de emprendim
 <li>Configuración inicial de WordPress</li><br>
 </ol>
 
-En esta parte solo se explicara los pasos, En caso que quieran mas detalles de los pasos de la instalacion y su usos vayan a la wiki de nuestro repotisitorio donde habra una mejor explicacion de como lo instalamos y sus usos.
+En esta parte solo se explicara los pasos, En caso que quieran mas detalles de los pasos de la instalacion y su usos vayan a la wiki de nuestro repotisitorio donde habra una mejor explicacion de como lo instalamos y sus usos
 
 # Integrantes
 

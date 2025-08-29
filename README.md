@@ -14,10 +14,13 @@ Hacer una Startup que ofrece servicio de diseño web para todo tipo de emprendim
 # Instalación y Uso:
 <ol>
 <li>Instalar Wordpress en local con Xampp</li><br>
-<li>Creación de Base de Datos</li><br>
-<li>Configuración de titulo del sitio "1ADevelopers"</li><br>
-<li>Crear usuario administrador con una contraseña segura</li><br>
+<li>Configuración de MySQL en XAMPP</li><br>
+<li>Crear la base de datos para WordPress</li><br>
+<li>Instalación de WordPress en XAMPP</li><br>
+<li>Configuración inicial de WordPress</li><br>
 </ol>
+
+En esta parte solo se explicara los pasos, En caso que quieran mas detalles de los pasos de la instalacion y su usos vayan a la wiki de nuestro repotisitorio donde habra una mejor explicacion de como lo instalamos y sus usos.
 
 # Integrantes
 
